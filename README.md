@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Santanu Rajak Das</h1>
-<p align="center">👋 Hey there! I'm a 3rd-year Electronics and Computer Science Engineering student <br>💻 I’ve gained quite a bit of knowledge in Java and Data Structures & Algorithms <br>🌐 Currently diving deep into the MERN stack (MongoDB, Express, React, Node) <br>🚀 Passionate about writing clean code and building efficient systems <br>📚 Always exploring new tech and sharpening my dev skills</p>
+<h4 align="center">👋 Hey there! I'm a 3rd-year Electronics and Computer Science Engineering student <br>💻 I’ve gained quite a bit of knowledge in Java and Data Structures & Algorithms <br>🌐 Currently diving deep into the MERN stack (MongoDB, Express, React, Node) <br>🚀 Passionate about writing clean code and building efficient systems <br>📚 Always exploring new tech and sharpening my dev skills</h4>
 
 <hr>
 
