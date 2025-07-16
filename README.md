@@ -17,7 +17,7 @@
   <a href="https://www.hackerrank.com/santanu_das6104" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
-  <a href="https://leetcode.com/user0021UN" target="_blank">
+  <a href="https://leetcode.com/Srdxn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=santanu.das6104@gmail.com" target="_blank">
